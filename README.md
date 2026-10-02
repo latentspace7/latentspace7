@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="LatentSpace7 — Full-stack AI engineer. Curious by default." width="100%" />
+  <img src="assets/hero.svg?v=2" alt="LatentSpace7 — Full-stack AI engineer. Curious by default." width="100%" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ I've just completed my **Master's in Artificial Intelligence at La Trobe Univers
 ## Projects
 
 <a href="https://github.com/latentspace7/EdgeDispatch">
-  <img src="assets/edgedispatch.svg" alt="01 — EdgeDispatch. Master's thesis: local-first agent systems." width="100%" />
+  <img src="assets/edgedispatch.svg?v=2" alt="01 — EdgeDispatch. Master's thesis: local-first agent systems." width="100%" />
 </a>
 
 ### [EdgeDispatch](https://github.com/latentspace7/EdgeDispatch) · Master's thesis
@@ -39,7 +39,7 @@ A local-first agent system that learns execution decisions from reviewed task ou
 <br />
 
 <a href="https://github.com/latentspace7/raid">
-  <img src="assets/raid.svg" alt="02 — RAID. Reddit AI Digest: less scrolling, more signal." width="100%" />
+  <img src="assets/raid.svg?v=2" alt="02 — RAID. Reddit AI Digest: less scrolling, more signal." width="100%" />
 </a>
 
 ### [RAID](https://github.com/latentspace7/raid) · Reddit AI Digest
@@ -55,7 +55,7 @@ Collects Reddit threads, summarises them with AI, and delivers a readable email 
 <br />
 
 <a href="https://github.com/latentspace7/LiveTranslate">
-  <img src="assets/livetranslate.svg" alt="03 — LiveTranslate. Live speech translation: a little less lost in translation." width="100%" />
+  <img src="assets/livetranslate.svg?v=2" alt="03 — LiveTranslate. Live speech translation: a little less lost in translation." width="100%" />
 </a>
 
 ### [LiveTranslate](https://github.com/latentspace7/LiveTranslate) · Speech → understanding
@@ -71,7 +71,7 @@ A browser companion that turns nearby speech into live translated captions. Foll
 <br />
 
 <a href="https://vectorspace.com.au/#contact">
-  <img src="assets/spacebot.svg" alt="04 — Spacebot. The bot behind Spacy: a little character, a proper conversation." width="100%" />
+  <img src="assets/spacebot.svg?v=2" alt="04 — Spacebot. The bot behind Spacy: a little character, a proper conversation." width="100%" />
 </a>
 
 ### [Spacebot](https://vectorspace.com.au/#contact) · The bot behind Spacy
@@ -87,7 +87,7 @@ A reusable React chat widget with an animated robot, streaming responses, option
 ## Tools I reach for
 
 <p>
-  <img src="assets/stack.svg" alt="Python, TypeScript, React, FastAPI, and Docker" width="700" />
+  <img src="assets/stack.svg?v=2" alt="Python, TypeScript, React, FastAPI, and Docker" width="700" />
 </p>
 
 Also in the mix: **RAG, Neo4j, Hugging Face, AWS, GCP, and a lot of evaluation.**
@@ -97,5 +97,5 @@ Also in the mix: **RAG, Neo4j, Hugging Face, AWS, GCP, and a lot of evaluation.*
 Have an **AI engineering role**, a collaboration, or a problem worth building for? [Let's connect on LinkedIn ↗](https://www.linkedin.com/in/dolwinf/).
 
 <p align="center">
-  <img src="assets/footer.svg" alt="Always learning. Usually building. Occasionally remembering to commit." width="100%" />
+  <img src="assets/footer.svg?v=2" alt="Always learning. Usually building. Occasionally remembering to commit." width="100%" />
 </p>
