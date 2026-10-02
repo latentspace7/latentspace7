@@ -1,24 +1,26 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Dolwin Fernandes — Full-stack AI engineer. Curious by default." width="100%" />
+  <img src="assets/hero.svg" alt="LatentSpace7 — Full-stack AI engineer. Curious by default." width="100%" />
 </p>
 
 <p align="center">
-  <a href="#selected-projects">Selected projects</a> &nbsp; / &nbsp;
+  <a href="#projects">Projects</a> &nbsp; / &nbsp;
   <a href="#the-human-behind-the-terminal">The human</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/dolwinf/">Let's connect ↗</a>
 </p>
 
 ## The human behind the terminal
 
-Hey, I'm **Dolwin** 👋 Full-stack AI engineer, independent consultant, and AI enthusiast with a healthy respect for the evals.
+Hey, I'm **LatentSpace7** 👋 A full-stack AI engineer with years of experience building **AI applications, RAG pipelines, and agentic systems**, from the interface to the infrastructure.
 
-I build across **AI, backend, frontend, and cloud**, working independently under my brand **Vector Space**. I'm pursuing a **Master of Artificial Intelligence at La Trobe University**, exploring how local models and agent systems can do useful work in the real world.
+I'm currently working as an **independent contractor** under my brand [**Vector Space**](https://vectorspace.com.au), migrating a large legacy codebase to a modern stack and building agentic systems around real business workflows.
 
-My favourite problems live where **local inference, agentic workflows, and retrieval** meet software people can actually use. This is my corner of the internet for building, experimenting, and asking, “Does it still work outside the demo?”
+I've just completed my **Master's in Artificial Intelligence at La Trobe University**. I've embraced **AI-native development** and I'm a big fan: AI as a collaborator throughout the build, with human judgement and evaluation keeping us honest.
+
+[Visit vectorspace.com.au and have a chat with Spacy ↗](https://vectorspace.com.au/#contact)
 
 > Powered by curiosity. Debugged by reality.
 
-## Selected projects
+## Projects
 
 <a href="https://github.com/latentspace7/EdgeDispatch">
   <img src="assets/edgedispatch.svg" alt="01 — EdgeDispatch. Master's thesis: local-first agent systems." width="100%" />
@@ -65,6 +67,22 @@ A browser companion that turns nearby speech into live translated captions. Foll
 **React · TypeScript · FastAPI · WebSockets · Realtime audio**
 
 [Explore the code ↗](https://github.com/latentspace7/LiveTranslate) &nbsp; · &nbsp; [Open the app ↗](https://qwen-live-translate.vercel.app) <sub>(sign-in required)</sub>
+
+<br />
+
+<a href="https://vectorspace.com.au/#contact">
+  <img src="assets/spacebot.svg" alt="04 — Spacebot. The bot behind Spacy: a little character, a proper conversation." width="100%" />
+</a>
+
+### [Spacebot](https://vectorspace.com.au/#contact) · The bot behind Spacy
+
+**A little character. A proper conversation.**
+
+A reusable React chat widget with an animated robot, streaming responses, optional lead capture, and configurable backend integrations. Built to bring personality to the interface while keeping the assistant's services replaceable. **Spacy** is its Vector Space personality.
+
+**React · TypeScript · Motion · Streaming chat · Configurable integrations**
+
+[Visit Vector Space and have a chat with Spacy ↗](https://vectorspace.com.au/#contact)
 
 ## Tools I reach for
 
