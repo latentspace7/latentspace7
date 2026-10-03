@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#projects">Projects</a> &nbsp; / &nbsp;
   <a href="#the-human-behind-the-terminal">The human</a> &nbsp; / &nbsp;
+  <a href="https://huggingface.co/latentspace7">🤗 Hugging Face</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/dolwinf/">Let's connect ↗</a>
 </p>
 
@@ -16,7 +17,7 @@ I'm currently working as an **independent contractor** under my brand [**Vector 
 
 I've just completed my **Master's in Artificial Intelligence at La Trobe University**. I've embraced **AI-native development** and I'm a big fan: AI as a collaborator throughout the build, with human judgement and evaluation keeping us honest.
 
-[Visit vectorspace.com.au and have a chat with Spacy ↗](https://vectorspace.com.au/#contact)
+Find me on [Hugging Face 🤗](https://huggingface.co/latentspace7), or [visit vectorspace.com.au and have a chat with Spacy ↗](https://vectorspace.com.au/#contact)
 
 > Powered by curiosity. Debugged by reality.
 
@@ -30,11 +31,11 @@ I've just completed my **Master's in Artificial Intelligence at La Trobe Univers
 
 **When should a local model handle the task, and when should it ask for backup?**
 
-A local-first AI agent system built around **LFM2.5-2.6B**, a small language model fine-tuned with a LoRA adapter to make execution decisions based on reviewed task outcomes and assessed model capability. The adapter chooses `LOCAL` or `ESCALATE`; the local base model or a remote model then handles the work. The thesis evaluates decision quality, answer quality, and remote execution API cost.
+A local-first AI agent system built around **LFM2.5-2.6B**, a small language model fine-tuned with a LoRA adapter to make execution decisions based on reviewed task outcomes and assessed model capability. The adapter chooses `LOCAL` or `ESCALATE`, and the local base model or a remote model then handles the work. The thesis evaluates decision quality, answer quality, and remote execution API cost.
 
 **Python · React · FastAPI · llama.cpp · LoRA · MCP**
 
-[Explore the code ↗](https://github.com/latentspace7/EdgeDispatch) &nbsp; · &nbsp; [Read the thesis ↗](https://github.com/latentspace7/EdgeDispatch/blob/main/docs/ltu_thesis_b_v1.pdf)
+[Explore the code ↗](https://github.com/latentspace7/EdgeDispatch) &nbsp; · &nbsp; [Read the thesis ↗](https://github.com/latentspace7/EdgeDispatch/blob/main/docs/ltu_thesis_b_v1.pdf) &nbsp; · &nbsp; [Hugging Face 🤗](https://huggingface.co/latentspace7)
 
 <br />
 
