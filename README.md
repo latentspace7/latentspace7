@@ -54,11 +54,11 @@ A browser companion that turns nearby speech into live translated captions. Foll
 
 <br />
 
-<a href="https://vectorspace.com.au/#contact">
+<a href="https://github.com/latentspace7/spacebot">
   <img src="assets/profile/03-spacebot.svg" alt="03 — Spacebot. The bot behind Spacy: a little character, a proper conversation." width="100%" />
 </a>
 
-### [Spacebot](https://vectorspace.com.au/#contact) · The bot behind Spacy
+### [Spacebot](https://github.com/latentspace7/spacebot) · The bot behind Spacy
 
 **A little character. A proper conversation.**
 
@@ -66,7 +66,7 @@ A reusable React chat widget with an animated robot, streaming responses, option
 
 **React · TypeScript · Motion · Streaming chat · Configurable integrations**
 
-[Visit Vector Space and have a chat with Spacy ↗](https://vectorspace.com.au/#contact)
+[Explore the code ↗](https://github.com/latentspace7/spacebot) &nbsp; · &nbsp; [Visit Vector Space and have a chat with Spacy ↗](https://vectorspace.com.au/#contact)
 
 <br />
 
