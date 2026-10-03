@@ -23,14 +23,14 @@ I've just completed my **Master's in Artificial Intelligence at La Trobe Univers
 ## Projects
 
 <a href="https://github.com/latentspace7/EdgeDispatch">
-  <img src="assets/profile/edgedispatch.svg" alt="01 — EdgeDispatch. Master's thesis: local-first agent systems." width="100%" />
+  <img src="assets/profile/edgedispatch.svg" alt="01 — EdgeDispatch. Thesis for my Master's in AI at La Trobe University." width="100%" />
 </a>
 
-### [EdgeDispatch](https://github.com/latentspace7/EdgeDispatch) · Master's thesis
+### [EdgeDispatch](https://github.com/latentspace7/EdgeDispatch) · Thesis for my Master's in AI at La Trobe University
 
 **When should a local model handle the task, and when should it ask for backup?**
 
-A local-first agent system that learns execution decisions from reviewed task outcomes. An execution-decision LoRA adapter chooses `LOCAL` or `ESCALATE`; the local base model or a remote model then handles the work. The thesis evaluates decision quality, answer quality, and remote execution API cost.
+A local-first AI agent system built around **LFM2.5-2.6B**, a small language model fine-tuned with a LoRA adapter to make execution decisions based on reviewed task outcomes and assessed model capability. The adapter chooses `LOCAL` or `ESCALATE`; the local base model or a remote model then handles the work. The thesis evaluates decision quality, answer quality, and remote execution API cost.
 
 **Python · React · FastAPI · llama.cpp · LoRA · MCP**
 
