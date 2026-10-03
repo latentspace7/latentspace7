@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
-  <title id="title">04 — Spacebot. The bot behind Spacy.</title>
+  <title id="title">03 — Spacebot. The bot behind Spacy.</title>
   <desc id="desc">A friendly violet robot with cyan eyes waves beside a chat bubble, on a slate blue background.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1">
@@ -19,7 +19,7 @@
   <rect x="1" y="1" width="1198" height="238" rx="17" fill="url(#grid)" stroke="#536b8b" />
   <rect y="26" width="4" height="188" fill="#91c6ff" />
   <g font-family="Menlo, Consolas, monospace" font-size="15">
-    <text x="38" y="48" fill="#91c6ff">04</text>
+    <text x="38" y="48" fill="#91c6ff">03</text>
     <text x="90" y="48" fill="#c1cde0" letter-spacing="1.7">CONVERSATIONAL UI / MEET SPACY</text>
   </g>
   <text x="37" y="124" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="700" letter-spacing="-1" fill="#f4f2ff">Spacebot</text>

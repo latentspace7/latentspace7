@@ -38,24 +38,8 @@ A local-first agent system that learns execution decisions from reviewed task ou
 
 <br />
 
-<a href="https://github.com/latentspace7/raid">
-  <img src="assets/profile/raid.svg" alt="02 — RAID. Reddit AI Digest: less scrolling, more signal." width="100%" />
-</a>
-
-### [RAID](https://github.com/latentspace7/raid) · Reddit AI Digest
-
-**Your subreddits, distilled. Your scrolling habit, mildly inconvenienced.**
-
-Collects Reddit threads, summarises them with AI, and delivers a readable email digest with links to the original posts. Built around bounded async processing, with a CLI and an authenticated FastAPI endpoint.
-
-**Python · FastAPI · Async I/O · LLM summarisation · Email**
-
-[Explore the code ↗](https://github.com/latentspace7/raid)
-
-<br />
-
 <a href="https://github.com/latentspace7/LiveTranslate">
-  <img src="assets/profile/livetranslate.svg" alt="03 — LiveTranslate. Live speech translation: a little less lost in translation." width="100%" />
+  <img src="assets/profile/02-livetranslate.svg" alt="02 — LiveTranslate. Live speech translation: a little less lost in translation." width="100%" />
 </a>
 
 ### [LiveTranslate](https://github.com/latentspace7/LiveTranslate) · Speech → understanding
@@ -71,7 +55,7 @@ A browser companion that turns nearby speech into live translated captions. Foll
 <br />
 
 <a href="https://vectorspace.com.au/#contact">
-  <img src="assets/profile/spacebot.svg" alt="04 — Spacebot. The bot behind Spacy: a little character, a proper conversation." width="100%" />
+  <img src="assets/profile/03-spacebot.svg" alt="03 — Spacebot. The bot behind Spacy: a little character, a proper conversation." width="100%" />
 </a>
 
 ### [Spacebot](https://vectorspace.com.au/#contact) · The bot behind Spacy
@@ -83,6 +67,22 @@ A reusable React chat widget with an animated robot, streaming responses, option
 **React · TypeScript · Motion · Streaming chat · Configurable integrations**
 
 [Visit Vector Space and have a chat with Spacy ↗](https://vectorspace.com.au/#contact)
+
+<br />
+
+<a href="https://github.com/latentspace7/raid">
+  <img src="assets/profile/04-raid.svg" alt="04 — RAID. Reddit AI Digest: less scrolling, more signal." width="100%" />
+</a>
+
+### [RAID](https://github.com/latentspace7/raid) · Reddit AI Digest
+
+**Your subreddits, distilled. Your scrolling habit, mildly inconvenienced.**
+
+Collects Reddit threads, summarises them with AI, and delivers a readable email digest with links to the original posts. Built around bounded async processing, with a CLI and an authenticated FastAPI endpoint.
+
+**Python · FastAPI · Async I/O · LLM summarisation · Email**
+
+[Explore the code ↗](https://github.com/latentspace7/raid)
 
 ## Tools I reach for
 
