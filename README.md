@@ -17,7 +17,7 @@ I'm currently working as an **independent contractor** under my brand [**Vector 
 
 I've just completed my **Master's in Artificial Intelligence at La Trobe University**. I've embraced **AI-native development** and I'm a big fan: AI as a collaborator throughout the build, with human judgement and evaluation keeping us honest.
 
-Find me on [Hugging Face 🤗](https://huggingface.co/latentspace7), or [visit vectorspace.com.au and have a chat with Spacy ↗](https://vectorspace.com.au/#contact)
+Find me on [<img src="assets/profile/linkedin.svg" alt="" width="16" height="16" /> LinkedIn ↗](https://www.linkedin.com/in/dolwinf/), or [visit vectorspace.com.au and have a chat with Spacy ↗](https://vectorspace.com.au/#contact)
 
 > Powered by curiosity. Debugged by reality.
 
