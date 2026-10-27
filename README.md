@@ -85,6 +85,24 @@ Collects Reddit threads, summarises them with AI, and delivers a readable email 
 
 [Explore the code ↗](https://github.com/latentspace7/raid)
 
+<br />
+
+<a href="https://github.com/latentspace7/intelui">
+  <img src="assets/profile/aerovista-demo.gif" alt="05 — AeroVista Intelligence. Ask airline questions, inspect SQL, and save interactive reports." width="100%" />
+</a>
+
+<sub>Live app recording with synthetic airline data; model waiting time shortened.</sub>
+
+### [AeroVista Intelligence](https://github.com/latentspace7/intelui) · Questions → interactive reports
+
+**Ask in plain English. Explore the answer.**
+
+Uses **CopilotKit's A2UI for intelligent UI** to turn natural-language questions into interactive airline reports. Inspect the generated SQL, explore charts and tables, and save reports to a dashboard with background refresh. Built on a synthetic PostgreSQL dataset with validated, read-only analytics queries.
+
+**React · TypeScript · FastAPI · PostgreSQL · CopilotKit A2UI**
+
+[Explore the code ↗](https://github.com/latentspace7/intelui)
+
 ## Tools I reach for
 
 <p>
