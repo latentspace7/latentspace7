@@ -35,7 +35,7 @@ A local-first AI agent system built around **LFM2.5-2.6B**, a small language mod
 
 **Python · React · FastAPI · llama.cpp · LoRA · MCP**
 
-[Explore the code ↗](https://github.com/latentspace7/EdgeDispatch) &nbsp; · &nbsp; [Read the thesis ↗](https://github.com/latentspace7/EdgeDispatch/blob/main/docs/ltu_thesis_b_v1.pdf) &nbsp; · &nbsp; [Hugging Face 🤗](https://huggingface.co/latentspace7)
+[See a demo and explore the project ↗](https://github.com/latentspace7/EdgeDispatch#demo) &nbsp; · &nbsp; [Read the thesis ↗](https://github.com/latentspace7/EdgeDispatch/blob/main/docs/ltu_thesis_b_v1.pdf) &nbsp; · &nbsp; [Hugging Face 🤗](https://huggingface.co/latentspace7)
 
 <br />
 
@@ -51,7 +51,7 @@ A browser companion that turns nearby speech into live translated captions. Foll
 
 **React · TypeScript · FastAPI · WebSockets · Realtime audio**
 
-[Explore the code ↗](https://github.com/latentspace7/LiveTranslate) &nbsp; · &nbsp; [Open the app ↗](https://qwen-live-translate.vercel.app) <sub>(sign-in required)</sub>
+[See a demo and explore the project ↗](https://github.com/latentspace7/LiveTranslate#demo) &nbsp; · &nbsp; [Open the app ↗](https://qwen-live-translate.vercel.app) <sub>(sign-in required)</sub>
 
 <br />
 
@@ -67,7 +67,7 @@ A reusable React chat widget with an animated robot, streaming responses, option
 
 **React · TypeScript · Motion · Streaming chat · Configurable integrations**
 
-[Explore the code ↗](https://github.com/latentspace7/spacebot) &nbsp; · &nbsp; [Visit Vector Space and have a chat with Spacy ↗](https://vectorspace.com.au/#contact)
+[See a demo and explore the project ↗](https://github.com/latentspace7/spacebot#demo) &nbsp; · &nbsp; [Visit Vector Space and have a chat with Spacy ↗](https://vectorspace.com.au/#contact)
 
 <br />
 
@@ -83,7 +83,7 @@ Collects Reddit threads, summarises them with AI, and delivers a readable email 
 
 **Python · FastAPI · Async I/O · LLM summarisation · Email**
 
-[Explore the code ↗](https://github.com/latentspace7/raid)
+[See a demo and explore the project ↗](https://github.com/latentspace7/raid#demo)
 
 <br />
 
@@ -99,7 +99,7 @@ Uses **CopilotKit's A2UI for intelligent UI** to turn natural-language questions
 
 **React · TypeScript · FastAPI · PostgreSQL · CopilotKit A2UI**
 
-[Explore the code ↗](https://github.com/latentspace7/intelui)
+[See a demo and explore the project ↗](https://github.com/latentspace7/intelui#demo)
 
 ## Tools I reach for
 
