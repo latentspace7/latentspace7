@@ -88,10 +88,8 @@ Collects Reddit threads, summarises them with AI, and delivers a readable email 
 <br />
 
 <a href="https://github.com/latentspace7/intelui">
-  <img src="assets/profile/aerovista-demo.gif" alt="05 — AeroVista Intelligence. Ask airline questions, inspect SQL, and save interactive reports." width="100%" />
+  <img src="assets/profile/05-aerovista.svg" alt="05 — AeroVista Intelligence. Ask in plain English. Explore the answer." width="100%" />
 </a>
-
-<sub>Live app recording with synthetic airline data; model waiting time shortened.</sub>
 
 ### [AeroVista Intelligence](https://github.com/latentspace7/intelui) · Questions → interactive reports
 

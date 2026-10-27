@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">05 — AeroVista Intelligence. Ask in plain English. Explore the answer.</title>
+  <desc id="desc">A question flows into an analytics dashboard with metric cards and a bar chart, on a slate blue background.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#2b405e" />
+      <stop offset="1" stop-color="#203149" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#b6b9e8" stroke-opacity=".09" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="240" rx="18" fill="url(#bg)" />
+  <rect x="1" y="1" width="1198" height="238" rx="17" fill="url(#grid)" stroke="#536b8b" />
+  <rect y="26" width="4" height="188" fill="#89a4ff" />
+  <g font-family="Menlo, Consolas, monospace" font-size="15">
+    <text x="38" y="48" fill="#89a4ff">05</text>
+    <text x="90" y="48" fill="#c1cde0" letter-spacing="1.7">INTELLIGENT UI / AIRLINE ANALYTICS</text>
+  </g>
+  <text x="37" y="124" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" letter-spacing="-1" fill="#f4f2ff">AeroVista Intelligence</text>
+  <text x="39" y="175" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d1dbee">Ask in plain English. Explore the answer.</text>
+  <path d="M40 209H650" stroke="#89a4ff" stroke-opacity=".24" />
+  <circle cx="1144" cy="48" r="19" fill="#89a4ff" fill-opacity=".09" />
+  <path d="M1137 55L1151 41M1137 41H1151V55" stroke="#89a4ff" stroke-width="1.5" fill="none" />
+  <path d="M755 87Q755 76 766 76H844Q855 76 855 87V124Q855 135 844 135H783L768 148V135H766Q755 135 755 124Z" fill="#354d71" stroke="#89a4ff" stroke-width="1.5" />
+  <path d="M772 94H837M772 106H824M772 118H813" stroke="#c1cde0" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M868 110H905M897 102L905 110L897 118" fill="none" stroke="#89a4ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="919" y="64" width="181" height="108" rx="10" fill="#293e5c" stroke="#89a4ff" stroke-width="1.5" />
+  <path d="M919 85H1100" stroke="#536b8b" />
+  <g fill="#89a4ff">
+    <circle cx="931" cy="75" r="2" />
+    <circle cx="939" cy="75" r="2" />
+    <circle cx="947" cy="75" r="2" />
+  </g>
+  <rect x="933" y="97" width="45" height="24" rx="4" fill="#354d71" stroke="#627bb1" />
+  <rect x="984" y="97" width="45" height="24" rx="4" fill="#2b5058" stroke="#6e9c99" />
+  <rect x="1035" y="97" width="51" height="24" rx="4" fill="#443e64" stroke="#8f7caa" />
+  <path d="M943 109H967M994 109H1018M1045 109H1075" stroke="#c1cde0" stroke-width="2" stroke-linecap="round" />
+  <path d="M933 158H1086" stroke="#536b8b" />
+  <rect x="943" y="138" width="24" height="20" rx="2" fill="#89a4ff" />
+  <rect x="981" y="129" width="24" height="29" rx="2" fill="#68f6df" />
+  <rect x="1019" y="142" width="24" height="16" rx="2" fill="#d09bff" />
+  <rect x="1057" y="133" width="24" height="25" rx="2" fill="#dcfa81" />
+  <text x="757" y="201" font-family="Menlo, Consolas, monospace" font-size="14" fill="#c1cde0" letter-spacing="1">QUESTION → REPORT</text>
+</svg>
