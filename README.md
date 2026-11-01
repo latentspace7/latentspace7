@@ -17,7 +17,7 @@ I'm currently working as an **independent contractor** under my brand [**Vector 
 
 I've just completed my **Master's in Artificial Intelligence at La Trobe University**. I've embraced **AI-native development** and I'm a big fan: AI as a collaborator throughout the build, with human judgement and evaluation keeping us honest.
 
-Find me on [<img src="assets/profile/linkedin.svg" alt="" width="16" height="16" /> LinkedIn ↗](https://www.linkedin.com/in/dolwinf/), or [visit vectorspace.com.au and have a chat with Spacy ↗](https://vectorspace.com.au/#contact)
+Find me on [<img src="assets/profile/linkedin.svg" alt="" width="16" height="16" /> LinkedIn ↗](https://www.linkedin.com/in/dolwinf/), or [visit vectorspace.com.au to chat or talk with Spacy ↗](https://vectorspace.com.au/#contact)
 
 > Powered by curiosity. Debugged by reality.
 
@@ -63,11 +63,11 @@ A browser companion that turns nearby speech into live translated captions. Foll
 
 **A little character. A proper conversation.**
 
-A reusable React chat widget with an animated robot, streaming responses, optional lead capture, and configurable backend integrations. Built to bring personality to the interface while keeping the assistant's services replaceable. **Spacy** is its Vector Space personality.
+A reusable React chat widget with a caped, animated robot, streaming responses, optional live voice calls, light and dark themes, and lead capture. Built to bring personality to the interface while keeping the assistant's services replaceable: provider keys stay on your server, and the widget tells visitors when no backend is connected yet. **Spacy** is its Vector Space personality, with a natural Australian voice on calls.
 
-**React · TypeScript · Motion · Streaming chat · Configurable integrations**
+**React · TypeScript · Motion · Streaming chat · WebRTC voice · Configurable integrations**
 
-[See a demo and explore the project ↗](https://github.com/latentspace7/spacebot#demo) &nbsp; · &nbsp; [Visit Vector Space and have a chat with Spacy ↗](https://vectorspace.com.au/#contact)
+[See a demo and explore the project ↗](https://github.com/latentspace7/spacebot#demo) &nbsp; · &nbsp; [Visit Vector Space to chat or talk with Spacy ↗](https://vectorspace.com.au/#contact)
 
 <br />
 
