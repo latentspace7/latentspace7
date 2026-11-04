@@ -49,12 +49,24 @@ A local-first AI agent system built around **LFM2.5-2.6B**, a small language mod
 
 A native iOS app that turns a live camera view or imported video into people counts and local session reports. Uses **RF-DETR Nano through Core ML** for on-device person detection, **ByteTrack** for motion tracking, and **OSNet** appearance embeddings to reconnect people with anonymous session IDs. Review visible and peak counts, save optional annotated recordings, and export CSV reports.
 
+**All detection, tracking, counting, and report generation run locally on your iPhone.**
+
 **Swift · SwiftUI · Core ML · RF-DETR Nano · ByteTrack · OSNet**
 
 [See a demo and explore the project ↗](https://github.com/latentspace7/crowdflux#demo) <sub>(private repository)</sub> &nbsp; · &nbsp; [Visit VectorSpace Apps ↗](https://vectorspacetech.com/) &nbsp; · &nbsp; [Explore CrowdFlux ↗](https://vectorspacetech.com/crowdflux/)
 
+**CrowdFlux is available to download on the App Store.**
+
 <p>
   <a href="https://apps.apple.com/th/app/crowdflux/id6821608555"><img src="assets/profile/download-on-the-app-store.svg" alt="Download CrowdFlux on the App Store" height="48" /></a>
+</p>
+
+Also available: [**Ghostlane**](https://vectorspacetech.com/ghostlane/), my iPhone app for traffic counts and calibrated speed estimates. **All detection, tracking, counting, speed estimation, and report generation run locally on your iPhone.**
+
+**Ghostlane is available to download on the App Store.**
+
+<p>
+  <a href="https://apps.apple.com/th/app/ghostlane/id6821601893"><img src="assets/profile/download-on-the-app-store.svg" alt="Download Ghostlane on the App Store" height="48" /></a>
 </p>
 
 <br />
