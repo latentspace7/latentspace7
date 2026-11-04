@@ -39,8 +39,28 @@ A local-first AI agent system built around **LFM2.5-2.6B**, a small language mod
 
 <br />
 
+<a href="https://vectorspacetech.com/crowdflux/">
+  <img src="assets/profile/02-crowdflux.svg" alt="02 — CrowdFlux. People in view. Insight on device." width="100%" />
+</a>
+
+### [CrowdFlux](https://vectorspacetech.com/crowdflux/) · On-device people counting for iPhone
+
+**People in view. Insight on device.**
+
+A native iOS app that turns a live camera view or imported video into people counts and local session reports. Uses **RF-DETR Nano through Core ML** for on-device person detection, **ByteTrack** for motion tracking, and **OSNet** appearance embeddings to reconnect people with anonymous session IDs. Review visible and peak counts, save optional annotated recordings, and export CSV reports.
+
+**Swift · SwiftUI · Core ML · RF-DETR Nano · ByteTrack · OSNet**
+
+[See a demo and explore the project ↗](https://github.com/latentspace7/crowdflux#demo) <sub>(private repository)</sub> &nbsp; · &nbsp; [Visit VectorSpace Apps ↗](https://vectorspacetech.com/) &nbsp; · &nbsp; [Explore CrowdFlux ↗](https://vectorspacetech.com/crowdflux/)
+
+<p>
+  <a href="https://apps.apple.com/th/app/crowdflux/id6821608555"><img src="assets/profile/download-on-the-app-store.svg" alt="Download CrowdFlux on the App Store" height="48" /></a>
+</p>
+
+<br />
+
 <a href="https://github.com/latentspace7/LiveTranslate">
-  <img src="assets/profile/02-livetranslate.svg" alt="02 — LiveTranslate. Live speech translation: a little less lost in translation." width="100%" />
+  <img src="assets/profile/03-livetranslate.svg" alt="03 — LiveTranslate. Live speech translation: a little less lost in translation." width="100%" />
 </a>
 
 ### [LiveTranslate](https://github.com/latentspace7/LiveTranslate) · Speech → understanding
@@ -56,7 +76,7 @@ A browser companion that turns nearby speech into live translated captions. Foll
 <br />
 
 <a href="https://github.com/latentspace7/spacebot">
-  <img src="assets/profile/03-spacebot.svg" alt="03 — Spacebot. The bot behind Spacy: a little character, a proper conversation." width="100%" />
+  <img src="assets/profile/04-spacebot.svg" alt="04 — Spacebot. The bot behind Spacy: a little character, a proper conversation." width="100%" />
 </a>
 
 ### [Spacebot](https://github.com/latentspace7/spacebot) · The bot behind Spacy
@@ -72,7 +92,7 @@ A reusable React chat widget with a caped, animated robot, streaming responses, 
 <br />
 
 <a href="https://github.com/latentspace7/raid">
-  <img src="assets/profile/04-raid.svg" alt="04 — RAID. Reddit AI Digest: less scrolling, more signal." width="100%" />
+  <img src="assets/profile/05-raid.svg" alt="05 — RAID. Reddit AI Digest: less scrolling, more signal." width="100%" />
 </a>
 
 ### [RAID](https://github.com/latentspace7/raid) · Reddit AI Digest
@@ -88,7 +108,7 @@ Collects Reddit threads, summarises them with AI, and delivers a readable email 
 <br />
 
 <a href="https://github.com/latentspace7/intelui">
-  <img src="assets/profile/05-aerovista.svg" alt="05 — AeroVista Intelligence. Ask in plain English. Explore the answer." width="100%" />
+  <img src="assets/profile/06-aerovista.svg" alt="06 — AeroVista Intelligence. Ask in plain English. Explore the answer." width="100%" />
 </a>
 
 ### [AeroVista Intelligence](https://github.com/latentspace7/intelui) · Questions → interactive reports
