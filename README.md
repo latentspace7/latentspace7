@@ -63,32 +63,8 @@ A native iOS app that turns a live camera view or imported video into traffic co
 
 <br />
 
-<a href="https://vectorspacetech.com/openpocket/">
-  <img src="assets/profile/03-openpocket.svg" alt="03 — OpenPocket. A little intelligence. All yours." width="100%" />
-</a>
-
-### [OpenPocket](https://vectorspacetech.com/openpocket/) · On-device private AI for iPhone and iPad
-
-**A little intelligence. All yours.**
-
-A native iOS app that brings private AI conversations to your iPhone and iPad. Uses **MLX Swift** to run downloaded, quantized language models with guidance based on your device’s memory and storage. Keep and revisit local conversations, bring in text, Markdown and text-based PDFs, ask about selected images with a compatible vision model, and hear responses read aloud. Download a suitable model once, then chat offline.
-
-**All AI inference and document processing run locally on your iPhone or iPad. Conversations are stored on your device.**
-
-**Swift · SwiftUI · MLX Swift · Quantized models · Local inference**
-
-[Explore the project ↗](https://github.com/latentspace7/OpenPocket) <sub>(private repository)</sub> &nbsp; · &nbsp; [Visit VectorSpace Apps ↗](https://vectorspacetech.com/) &nbsp; · &nbsp; [Explore OpenPocket ↗](https://vectorspacetech.com/openpocket/)
-
-**OpenPocket is available to download on the App Store.**
-
-<p>
-  <a href="https://apps.apple.com/th/app/openpocket/id6833028114"><img src="assets/profile/download-on-the-app-store.svg" alt="Download OpenPocket on the App Store" height="48" /></a>
-</p>
-
-<br />
-
 <a href="https://github.com/latentspace7/LiveTranslate">
-  <img src="assets/profile/04-livetranslate.svg" alt="04 — LiveTranslate. Live speech translation: a little less lost in translation." width="100%" />
+  <img src="assets/profile/03-livetranslate.svg" alt="03 — LiveTranslate. Live speech translation: a little less lost in translation." width="100%" />
 </a>
 
 ### [LiveTranslate](https://github.com/latentspace7/LiveTranslate) · Speech → understanding
@@ -104,7 +80,7 @@ A browser companion that turns nearby speech into live translated captions. Foll
 <br />
 
 <a href="https://github.com/latentspace7/spacebot">
-  <img src="assets/profile/05-spacebot.svg" alt="05 — Spacebot. The bot behind Spacy: a little character, a proper conversation." width="100%" />
+  <img src="assets/profile/04-spacebot.svg" alt="04 — Spacebot. The bot behind Spacy: a little character, a proper conversation." width="100%" />
 </a>
 
 ### [Spacebot](https://github.com/latentspace7/spacebot) · The bot behind Spacy
@@ -120,7 +96,7 @@ A reusable React chat widget with a caped, animated robot, streaming responses, 
 <br />
 
 <a href="https://github.com/latentspace7/raid">
-  <img src="assets/profile/06-raid.svg" alt="06 — RAID. Reddit AI Digest: less scrolling, more signal." width="100%" />
+  <img src="assets/profile/05-raid.svg" alt="05 — RAID. Reddit AI Digest: less scrolling, more signal." width="100%" />
 </a>
 
 ### [RAID](https://github.com/latentspace7/raid) · Reddit AI Digest
@@ -136,7 +112,7 @@ Collects Reddit threads, summarises them with AI, and delivers a readable email 
 <br />
 
 <a href="https://github.com/latentspace7/intelui">
-  <img src="assets/profile/07-aerovista.svg" alt="07 — AeroVista Intelligence. Ask in plain English. Explore the answer." width="100%" />
+  <img src="assets/profile/06-aerovista.svg" alt="06 — AeroVista Intelligence. Ask in plain English. Explore the answer." width="100%" />
 </a>
 
 ### [AeroVista Intelligence](https://github.com/latentspace7/intelui) · Questions → interactive reports
