@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
-  <title id="title">06 — AeroVista Intelligence. Ask in plain English. Explore the answer.</title>
+  <title id="title">07 — AeroVista Intelligence. Ask in plain English. Explore the answer.</title>
   <desc id="desc">A question flows into an analytics dashboard with metric cards and a bar chart, on a slate blue background.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1">
@@ -14,7 +14,7 @@
   <rect x="1" y="1" width="1198" height="238" rx="17" fill="url(#grid)" stroke="#536b8b" />
   <rect y="26" width="4" height="188" fill="#89a4ff" />
   <g font-family="Menlo, Consolas, monospace" font-size="15">
-    <text x="38" y="48" fill="#89a4ff">06</text>
+    <text x="38" y="48" fill="#89a4ff">07</text>
     <text x="90" y="48" fill="#c1cde0" letter-spacing="1.7">INTELLIGENT UI / AIRLINE ANALYTICS</text>
   </g>
   <text x="37" y="124" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" letter-spacing="-1" fill="#f4f2ff">AeroVista Intelligence</text>

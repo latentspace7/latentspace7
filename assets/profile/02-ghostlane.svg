@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+<title id="title">02 — Ghostlane. Count traffic. Know the flow.</title>
+<desc id="desc">Vehicles cross a counting line inside tracking boxes, in the profile's slate blue, cyan, violet and acid yellow palette.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#2b405e"/><stop offset="1" stop-color="#203149"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b6b9e8" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="240" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="238" rx="17" fill="url(#grid)" stroke="#536b8b"/>
+<rect x="0" y="26" width="4" height="188" fill="#68f6df"/>
+<text x="38" y="48" font-size="15" fill="#68f6df" font-family="Menlo, Consolas, monospace">02</text>
+<text x="90" y="48" font-size="15" fill="#c1cde0" font-family="Menlo, Consolas, monospace" letter-spacing="1.7">ON-DEVICE / TRAFFIC COUNTING</text>
+<text x="37" y="124" font-size="59" fill="#f4f2ff" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="-1">Ghostlane</text>
+<text x="39" y="175" font-size="23" fill="#d1dbee" font-family="Arial, Helvetica, sans-serif">Count traffic. Know the flow.</text>
+<path d="M40 209H650" stroke="#68f6df" stroke-opacity=".24"/>
+<circle cx="1144" cy="48" r="19" fill="#68f6df" fill-opacity=".09"/>
+<path d="M1137 55L1151 41M1137 41H1151V55" stroke="#68f6df" stroke-width="1.5" fill="none"/>
+<rect x="747" y="67" width="352" height="122" rx="12" fill="#293e5c" stroke="#536b8b"/>
+<path d="M760 128H1086" stroke="#91a6c6" stroke-width="1.5" stroke-dasharray="14 13"/>
+<path d="M966 63V193" stroke="#68f6df" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="966" cy="63" r="4" fill="#68f6df"/>
+<circle cx="966" cy="193" r="4" fill="#68f6df"/>
+<g stroke="#68f6df" stroke-width="1.7">
+  <rect x="766" y="76" width="95" height="43" rx="6" fill="#2b5058" fill-opacity=".6"/>
+  <rect x="777" y="86" width="72" height="24" rx="8" fill="#68f6df" fill-opacity=".2"/>
+  <path d="M798 86V110M829 86V110M801 91H826M801 105H826" fill="none"/>
+</g>
+<g stroke="#d09bff" stroke-width="1.7">
+  <rect x="861" y="137" width="95" height="43" rx="6" fill="#443e64" fill-opacity=".6"/>
+  <rect x="872" y="147" width="72" height="24" rx="8" fill="#d09bff" fill-opacity=".2"/>
+  <path d="M892 147V171M923 147V171M895 152H920M895 166H920" fill="none"/>
+</g>
+<g stroke="#dcfa81" stroke-width="1.7">
+  <rect x="989" y="76" width="95" height="43" rx="6" fill="#46583e" fill-opacity=".6"/>
+  <rect x="1000" y="86" width="72" height="24" rx="8" fill="#dcfa81" fill-opacity=".2"/>
+  <path d="M1021 86V110M1052 86V110M1024 91H1049M1024 105H1049" fill="none"/>
+</g>
+<path d="M873 98H926M918 91L926 98L918 105M844 159H791M799 152L791 159L799 166" fill="none" stroke="#91a6c6" stroke-width="1.5"/>
+<text x="769" y="215" font-size="14" fill="#c1cde0" font-family="Menlo, Consolas, monospace" letter-spacing="1">DETECT → COUNT → REPORT</text>
+</svg>
